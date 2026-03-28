@@ -1,44 +1,71 @@
 <div align="center">
-  <img src="https://media.tenor.com/0cAe7HNQZ5oAAAAC/design-thinking-design-process.gif"  width="120" />
+  <img src="https://media.tenor.com/0cAe7HNQZ5oAAAAC/design-thinking-design-process.gif" width="120" />
   
-  <h1>Привет! 👋 Я Веб-дизайнер</h1>
+  <h1>TUHS</h1>
   <p>
-    Создаю красивые и удобные интерфейсы, которые хочется использовать снова и снова. 
-    Здесь собраны мои лучшие работы, идеи и технологии.
+    Designing and building calm digital experiences.
   </p>
 
-  <a href="mailto:tuhs6188@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=email" />
-  </a>
-  <a href="https://t.me/TUHSS">
-    <img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram" />
-  </a>
+  <p>
+    <a href="https://tuhs.online/">Website</a> •
+    <a href="mailto:tuhs6188@gmail.com">Email</a> •
+    <a href="https://t.me/TUHSS">Telegram</a>
+  </p>
 </div>
 
 ---
 
-### 🛠️ Использую: 
-- HTML & CSS
-- Responsive Design
-- UI/UX Prototyping
+## About Me
+
+- Android Developer & UI Designer  
+- Focused on clean, minimal interfaces  
+- Building fast and distraction-free apps  
+- Creator of **Vibe Alarm**
 
 ---
 
-### 🧩 Что я делаю:
-- Проектирую современные интерфейсы
-- Верстаю pixel-perfect макеты
-- Адаптирую под мобильные устройства
-- Улучшаю пользовательский опыт
+## Website
+
+https://tuhs.online/
 
 ---
 
-### 🌐 Связаться:
+## Featured Project
 
-| Платформа | Ссылка |
-|----------|-------|
-| 📧 Email | [tuhs6188@gmail.com](mailto:tuhs6188@gmail.com) |
-| 💼 Telegram | [@TUHSS](https://t.me/TUHSS)  |
+### Vibe Alarm  
+Minimalist alarm app for calm mornings  
+
+https://github.com/TUHS-lab/Vibe-Alarm
 
 ---
 
-Сделано с ❤️ для тех, кто любит красивый веб.
+## Tech Stack
+
+- Kotlin  
+- Android SDK  
+- XML (UI)  
+- HTML & CSS  
+- UI/UX Design  
+
+---
+
+## What I Do
+
+- Design modern interfaces  
+- Build clean mobile apps  
+- Create user-friendly experiences  
+- Focus on simplicity and aesthetics  
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TUHS-lab&show_icons=true&theme=dark"/>
+</p>
+
+---
+
+<p align="center">
+  Made with calm and focus
+</p>
