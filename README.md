@@ -58,14 +58,6 @@ https://github.com/TUHS-lab/Vibe-Alarm
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TUHS-lab&show_icons=true&theme=dark"/>
-</p>
-
----
-
 <p align="center">
   Made with calm and focus
 </p>
