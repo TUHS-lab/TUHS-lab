@@ -2,18 +2,6 @@
   <img src="./tuhs.png" alt="TUHS banner" width="100%" />
 </p>
 
-<h1 align="center">TUHS</h1>
-
-<p align="center">
-  Full-stack developer
-</p>
-
-<p align="center">
-  <a href="https://tuhss.t.me">Telegram</a>
-  &nbsp;|&nbsp;
-  <a href="https://tuhs.online">Website</a>
-</p>
-
 ## About
 
 I build full-stack web products with a focus on clean interfaces, reliable backend logic, and practical developer experience.
