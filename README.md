@@ -14,12 +14,6 @@ I build full-stack web products with a focus on clean interfaces, reliable backe
   </a>
 </p>
 
-## Focus
-
-- Frontend development with modern, responsive interfaces
-- Backend APIs, databases, and application architecture
-- End-to-end product development from idea to deployment
-
 ## Contacts
 
 - Telegram: [tuhss.t.me](https://tuhss.t.me)
